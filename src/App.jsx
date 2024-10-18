@@ -4,7 +4,7 @@ import Hero from "./components/Hero"
 import Highlights from "./components/Highlights"
 import HowItWorks from "./components/HowItWorks"
 import Model from "./components/Model"
-import Navbar from "./components/navbar"
+import Navbar from "./components/Navbar"
 
 import * as Sentry from '@sentry/react'
 
